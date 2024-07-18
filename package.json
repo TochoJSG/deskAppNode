@@ -1,0 +1,21 @@
+{
+  "name": "desk-inventory-gest",
+  "version": "1.0.0",
+  "description": "desk app for manage a simple inventory",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/TochoJSG/deskAppNode.git"
+  },
+  "keywords": [
+    "desk",
+    "inventory",
+    "app",
+    "node"
+  ],
+  "author": "TochoJSG",
+  "license": "ISC"
+}
